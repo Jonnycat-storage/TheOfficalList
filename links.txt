@@ -10,9 +10,9 @@ rammerhead9 https://rammerhead2.we-trade.cl/
 rammerhead10 https://rammerhead3.we-trade.cl/
 rammerhead11 https://rammerhead4.we-trade.cl/ 
 rammerhead12 https://rammerhead5.we-trade.cl/  
-dogeunblocker1 https://v4-xly2-git-main-derps-team-2.vercel.app
-dogeunblocker2 https://dogethedog1.onrender.com
-dogeunblocker3 https://news.suncube.de
+doge1 https://v4-xly2-git-main-derps-team-2.vercel.app
+doge2 https://dogethedog1.onrender.com
+doge3 https://news.suncube.de
 snorlaxs1 https://pokecave1-utnd.onrender.com
 snorlaxs2 https://pokecave2-eniw.onrender.com
 snorlaxs3 https://pokecave3-9pgy.onrender.com
