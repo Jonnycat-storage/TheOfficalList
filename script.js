@@ -13,7 +13,6 @@ document.getElementById("search-button").addEventListener("click", function () {
                 if (name.toLowerCase() === searchValue.toLowerCase()) {
                     // Open the link in a new tab without adding to browser history
                     window.open(url, "_blank", "noopener,noreferrer");
-                    document.getElementById("results").textContent = `Opening ${name}...`;
                     return;
                 }
             }
