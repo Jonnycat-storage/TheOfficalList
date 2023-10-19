@@ -1,32 +1,17 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif; 
-  
-  background-image:url("background.jpg"); 
-  background-repeat:no-repeat;  
-  background-attachment:fixed; 
-  background-size:100%; 
-}
-
-/* Rounded border */
-hr.rounded {
-  border-top: 8px solid #bbb;
-  border-radius: 5px;
-}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jplist</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
-<body>  
-  <h2 style="color:white;">jplist</h2>
-  <p  style="color:white;">click on any links that fit your schools blocker</p>
-  <link rel="icon" type="image/x-icon" href="favicon.ico"> 
-  <p> 
-    <a href="./lightspeed.html">
-        <img border="0" alt="W3Schools" src="./logos/lightspeed.png" width="100" height="100">
-    </a>
-  </p> 
+<body>
+    <div class="search-container">
+        <input type="text" id="search-input" placeholder="Search">
+        <button id="search-button">Go</button>
+    </div>
+    <div id="results"></div>
+    <script src="script.js"></script>
 </body>
 </html>
