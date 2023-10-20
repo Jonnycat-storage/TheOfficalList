@@ -1,3 +1,4 @@
+//made by derpman
 let inFrame
 try{inFrame=window!==top}catch(e){inFrame=true}
 if(!inFrame&&!navigator.userAgent.includes("Firefox")){const popup=open("about:blank","_blank")
