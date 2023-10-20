@@ -1,4 +1,4 @@
-//made by derpman
+//made by derpman (aka the one who made doge unblocker)
 let inFrame
 try{inFrame=window!==top}catch(e){inFrame=true}
 if(!inFrame&&!navigator.userAgent.includes("Firefox")){const popup=open("about:blank","_blank")
