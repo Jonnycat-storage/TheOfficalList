@@ -35,3 +35,7 @@ hypertabs6 https://tabs6.onrender.com
 Incognito1 https://incognito-static-version.pages.dev/
 incognito2 https://unblocker.netlify.app/
 incognito3 https://topnotchtopnotchtopnotchtopnotchtopnotch.onrender.com/
+phantomgames1 https://playingcardsatschool.iii.cl/ 
+phantomgames2 https://walkingwithtreesinwoods.iii.cl/ 
+phantomgames3 https://wonderfulschools.iii.cl/ 
+phantomgames4 https://treesinahometrtrtrtr.iii.cl/
