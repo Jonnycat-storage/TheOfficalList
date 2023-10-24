@@ -39,3 +39,13 @@ phantomgames1 https://playingcardsatschool.iii.cl/
 phantomgames2 https://walkingwithtreesinwoods.iii.cl/ 
 phantomgames3 https://wonderfulschools.iii.cl/ 
 phantomgames4 https://treesinahometrtrtrtr.iii.cl/
+emerald1 https://emeraldmining.onrender.com 
+emerald2 https://emeraldmining2.onrender.com 
+emerald3 https://emeraldmining3.onrender.com 
+emerald4 https://emeraldmining4.onrender.com 
+emerald5 https://emeraldmining5.onrender.com 
+emerald6 https://emeraldmining6.onrender.com 
+emerald7 https://emeraldmining7.onrender.com 
+emerald8 https://emeraldmining8.onrender.com 
+emerald9 https://emeraldmining9.onrender.com 
+emerald10 https://emeraldmining10.onrender.com 
