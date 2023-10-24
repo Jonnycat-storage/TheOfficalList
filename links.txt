@@ -49,3 +49,4 @@ emerald7 https://emeraldmining7.onrender.com
 emerald8 https://emeraldmining8.onrender.com 
 emerald9 https://emeraldmining9.onrender.com 
 emerald10 https://emeraldmining10.onrender.com 
+emerald11 https://iboss.centuriontel.org
