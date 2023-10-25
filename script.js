@@ -2,7 +2,7 @@ document.getElementById("search-button").addEventListener("click", function () {
     const searchValue = document.getElementById("search-input").value;
 
     // Fetch the links from the text file
-    fetch("links.txt")
+    fetch("lightspeed.txt") //gets and reads the links inside of the text file
         .then((response) => response.text())
         .then((data) => {
             const links = data.split("\n");
