@@ -66,9 +66,3 @@ emerald9 https://emeraldmining9.onrender.com
 emerald10 https://emeraldmining10.onrender.com 
 emerald11 https://iboss.centuriontel.org
 -------------------------------------------------------------------
-shadowbrowser1 iambehindtheshadow1.we-trade.cl  
-shadowbrowser2 iambehindtheshadow2.we-trade.cl
-shadowbrowser3 iambehindtheshadow3.we-trade.cl
-shadowbrowser4 iambehindtheshadow4.we-trade.cl
-shadowbrowser5 iambehindtheshadow5.we-trade.cl
-shadowbrowser6 iambehindtheshadow6.we-trade.cl
