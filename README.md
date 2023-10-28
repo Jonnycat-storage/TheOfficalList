@@ -21,3 +21,10 @@ here is how to contribute
 - [x] emerald 
 - [x] incognito 
 - [x] phantom games 
+
+## Credits
+
+| Avatar | User | Involvement |
+| ------ | ---- | ----------- | 
+| ![](https://avatars.githubusercontent.com/u/107599365?v=64) | [Jonnycat](https://github.com/JonnycatMeow) | website creator
+| ![](https://avatars.githubusercontent.com/u/121367528?s=64) | [GhostedZoomer77](https://github.com/Ishan877) | link maker
