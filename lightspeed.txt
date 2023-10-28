@@ -66,3 +66,5 @@ emerald9 https://emeraldmining9.onrender.com
 emerald10 https://emeraldmining10.onrender.com 
 emerald11 https://iboss.centuriontel.org
 -------------------------------------------------------------------
+shadowbrowser1 https://edu.madroidmathlearning.online/ 
+shadowbrowser2 https://learnreligionat.tomahawkchurch.org/
