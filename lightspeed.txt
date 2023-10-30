@@ -68,3 +68,21 @@ emerald11 https://iboss.centuriontel.org
 -------------------------------------------------------------------
 shadowbrowser1 https://edu.madroidmathlearning.online/ 
 shadowbrowser2 https://learnreligionat.tomahawkchurch.org/
+shadowbrowser3 iambehindtheshadow1.we-trade.cl 
+shadowbrowser4 iambehindtheshadow2.we-trade.cl
+shadowbrowser5 iambehindtheshadow3.we-trade.cl
+shadowbrowser6 iambehindtheshadow4.we-trade.cl 
+shadowbrowser7 iambehindtheshadow5.we-trade.cl 
+shadowbrowser8 iambehindtheshadow6.we-trade.cl 
+shadowbrowser9  jonnymadethis1.iii.cl
+shadowbrowser10 jonnymadethis2.iii.cl
+shadowbrowser11 jonnymadethis3.iii.cl
+shadowbrowser12 jonnymadethis4.iii.cl
+shadowbrowser13 jonnymadethis5.iii.cl 
+shadowbrowser14 schooliscool1.issurroundedbyidiots.net
+shadowbrowser15 schooliscool2.issurroundedbyidiots.net
+shadowbrowser16 schooliscool3.issurroundedbyidiots.net 
+shadowbrowser17 schooliscool4.issurroundedbyidiots.net
+shadowbrowser18 schooliscool5.issurroundedbyidiots.net
+-------------------------------------------------------------------
+interstellar1 https://studyguidemath.onrender.com 
