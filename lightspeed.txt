@@ -68,21 +68,21 @@ emerald11 https://iboss.centuriontel.org
 -------------------------------------------------------------------
 shadowbrowser1 https://edu.madroidmathlearning.online/ 
 shadowbrowser2 https://learnreligionat.tomahawkchurch.org/
-shadowbrowser3 iambehindtheshadow1.we-trade.cl 
-shadowbrowser4 iambehindtheshadow2.we-trade.cl
-shadowbrowser5 iambehindtheshadow3.we-trade.cl
-shadowbrowser6 iambehindtheshadow4.we-trade.cl 
-shadowbrowser7 iambehindtheshadow5.we-trade.cl 
-shadowbrowser8 iambehindtheshadow6.we-trade.cl 
-shadowbrowser9  jonnymadethis1.iii.cl
-shadowbrowser10 jonnymadethis2.iii.cl
-shadowbrowser11 jonnymadethis3.iii.cl
-shadowbrowser12 jonnymadethis4.iii.cl
-shadowbrowser13 jonnymadethis5.iii.cl 
-shadowbrowser14 schooliscool1.issurroundedbyidiots.net
-shadowbrowser15 schooliscool2.issurroundedbyidiots.net
-shadowbrowser16 schooliscool3.issurroundedbyidiots.net 
-shadowbrowser17 schooliscool4.issurroundedbyidiots.net
-shadowbrowser18 schooliscool5.issurroundedbyidiots.net
+shadowbrowser3 https://iambehindtheshadow1.we-trade.cl 
+shadowbrowser4 https://iambehindtheshadow2.we-trade.cl
+shadowbrowser5 https://iambehindtheshadow3.we-trade.cl
+shadowbrowser6 https://iambehindtheshadow4.we-trade.cl 
+shadowbrowser7 https://iambehindtheshadow5.we-trade.cl 
+shadowbrowser8 https://iambehindtheshadow6.we-trade.cl 
+shadowbrowser9  https://jonnymadethis1.iii.cl
+shadowbrowser10 https://jonnymadethis2.iii.cl
+shadowbrowser11 https://jonnymadethis3.iii.cl
+shadowbrowser12 https://jonnymadethis4.iii.cl
+shadowbrowser13 https://jonnymadethis5.iii.cl 
+shadowbrowser14 https://schooliscool1.issurroundedbyidiots.net
+shadowbrowser15 https://schooliscool2.issurroundedbyidiots.net
+shadowbrowser16 https://schooliscool3.issurroundedbyidiots.net 
+shadowbrowser17 https://schooliscool4.issurroundedbyidiots.net
+shadowbrowser18 https://schooliscool5.issurroundedbyidiots.net
 -------------------------------------------------------------------
 interstellar1 https://studyguidemath.onrender.com 
