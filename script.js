@@ -1,4 +1,4 @@
-function seachAc() {
+document.getElementById("search-input").addEventListener("keydown", function () {
     const searchValue = document.getElementById("search-input").value;
     const resultsContainer = document.getElementById("result");
 
@@ -18,8 +18,6 @@ function seachAc() {
     resultsContainer.appendChild(breake2)
     resultsContainer.appendChild(breake3)
     resultsContainer.appendChild(breake4)
-
-
     fetch("lightspeed.txt")
   .then((response) => response.text())
   .then((data) => {
@@ -66,7 +64,7 @@ function seachAc() {
     console.error("Error fetching links:", error);
   });
 
-}
+});
 
 const searchValue = document.getElementById("search-input").value;
 
@@ -115,3 +113,5 @@ const searchValue = document.getElementById("search-input").value;
   .catch((error) => {
     console.error("Error fetching links:", error);
   });
+
+  console.warn('Executed Code With Help From Thatblockboi')
