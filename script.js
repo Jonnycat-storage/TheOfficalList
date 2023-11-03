@@ -1,4 +1,4 @@
-document.getElementById("search-button").addEventListener("click", function () {
+function seachAc() {
     const searchValue = document.getElementById("search-input").value;
     const resultsContainer = document.getElementById("result");
 
@@ -66,7 +66,7 @@ document.getElementById("search-button").addEventListener("click", function () {
     console.error("Error fetching links:", error);
   });
 
-});
+}
 
 const searchValue = document.getElementById("search-input").value;
 
