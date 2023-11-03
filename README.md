@@ -24,6 +24,7 @@ here is how to contribute
 - [x] phantom games  
 - [x] shadow browser 
 - [x] interstellar
+- [x]
 
 ## Credits
 

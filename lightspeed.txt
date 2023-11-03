@@ -106,6 +106,3 @@ Proxnow7 https://jonnyprox7.onrender.com
 Proxnow8 https://jonnyprox8.onrender.com 
 Proxnow9 https://jonnyprox9.onrender.com
 Proxnow10 https://jonnyprox10.onrender.com
-slate1 https://paint-proxy-v1-teamcosmic.vercel.app
-slate2 https://paint-proxy-v1-git-main-teamcosmic.vercel.app 
-slate3 https://paint-proxy-v1.vercel.app 
