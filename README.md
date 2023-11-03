@@ -18,6 +18,7 @@ i am not responsible for the proxy links i add or make if it dosen't work for yo
 - [x] shadow browser 
 - [x] interstellar
 - [x] dm-unblocker
+- [x] shuttle
 
 ## Credits
 
