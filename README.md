@@ -2,10 +2,10 @@
 a proxy list of websites to go to 
 
 # How to use the website!!! 
-add the rammerhead into the search bar and add a number like 1,2,3. for example rammerhead1 
+type the name of the proxy that you want to use!!! 
 
 # PLEASE READ!!! 
-i am not responsible for the proxy links i add or make if it dosen't work for you then i can't do nothing about it. these links only support lightspeed blocker because that is my schools blocker. please send me some links that will work for your schools blocker on my discord Jonnycat
+i am not responsible for the proxy links i add or make if it dosen't work for you then i can't do nothing about it. these links only support lightspeed blocker because that is my schools blocker. please send me some links that will work for your schools blocker on my discord Jonnycat.
 
 # proxy support 
 - [x] rammerhead
@@ -19,6 +19,11 @@ i am not responsible for the proxy links i add or make if it dosen't work for yo
 - [x] interstellar
 - [x] dm-unblocker
 - [x] shuttle
+- [x] ultraviolet
+
+# Docker images 
+Ultraviolet docker image: https://hub.docker.com/r/diffusehyperion/ultraviolet
+Holy Unblocker docker image: https://hub.docker.com/r/diffusehyperion/holyunblocker
 
 ## Credits
 
