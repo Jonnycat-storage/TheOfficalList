@@ -77,6 +77,7 @@ function removeElementsWithClasses() {
         ".com/sc/*?n=$script,third-party",
         ".com/ss/ad/",
         ".cz/adv/",
+        "soundcloud.com/audio-ads?",
         ".cz/affil/",
         ".cz/bannery/",
         ".fuse-cloud.com/",
