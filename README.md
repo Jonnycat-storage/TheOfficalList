@@ -20,11 +20,12 @@ i am not responsible for the proxy links i add or make if it dosen't work for yo
 - [x] dm-unblocker
 - [x] shuttle
 - [x] ultraviolet
+- [x] holy unblocker
 
 # Docker images 
 Ultraviolet docker image: https://hub.docker.com/r/diffusehyperion/ultraviolet
 Holy Unblocker docker image: https://hub.docker.com/r/diffusehyperion/holyunblocker
-
+kazwire docker image: https://hub.docker.com/r/nccoder13431/kazwire 
 ## Credits
 
 | Avatar | User | Involvement |
