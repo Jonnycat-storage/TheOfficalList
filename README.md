@@ -33,6 +33,8 @@ i am not responsible for the proxy links i add or make if it dosen't work for yo
 
 [Incognito](https://hub.docker.com/r/jonnycat/nitoweb)
 
+[interstellar](https://hub.docker.com/r/jonnycat/push92thebest)
+
 ## Credits
 
 | Avatar | User | Involvement |

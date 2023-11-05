@@ -30,9 +30,13 @@ doge8 https://v4-derps-team-2.vercel.app
 doge9 https://v4-c7v7.vercel.app/app 
 doge10 https://v4-c7v7-git-main-deezers.vercel.app
 doge11 https://v4-c7v7-deezers.vercel.app
+doge12 https://dashboard.worksheetsforteachers.org/app 
+doge13 https://heart.healthlink-test.ch/app  
+doge14 https://business.titanides.es/app
 snorlaxs1 https://pokecave1-utnd.onrender.com
 snorlaxs2 https://pokecave2-eniw.onrender.com
-snorlaxs3 https://pokecave3-9pgy.onrender.com 
+snorlaxs3 https://pokecave3-9pgy.onrender.com  
+snorlaxs4 https://design.showmyhomes.com 
 hypertabs1 https://tabs1-5vk2.onrender.com
 hypertabs2 https://tabs2-wmwa.onrender.com 
 hypertabs3 https://tabs3-1hl7.onrender.com 
@@ -47,7 +51,9 @@ incognito4 https://gooodwebsite.onrender.com
 phantomgames1 https://playingcardsatschool.iii.cl/ 
 phantomgames2 https://walkingwithtreesinwoods.iii.cl/ 
 phantomgames3 https://wonderfulschools.iii.cl/ 
-phantomgames4 https://treesinahometrtrtrtr.iii.cl/ 
+phantomgames4 https://treesinahometrtrtrtr.iii.cl/  
+phantomgames5 https://er.iamfrolov.com/ 
+phantomgames6 https://this-is-not.worksheetsforteachers.org/
 emerald1 https://emeraldmining.onrender.com 
 emerald2 https://emeraldmining2.onrender.com 
 emerald3 https://emeraldmining3.onrender.com 
