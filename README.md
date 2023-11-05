@@ -23,13 +23,14 @@ i am not responsible for the proxy links i add or make if it dosen't work for yo
 - [x] holy unblocker
 
 # Docker images 
-Ultraviolet docker image: https://hub.docker.com/r/diffusehyperion/ultraviolet
+[Ultraviolet docker image](https://hub.docker.com/r/diffusehyperion/ultraviolet)
 
-Holy Unblocker docker image: https://hub.docker.com/r/diffusehyperion/holyunblocker 
+[Holy Unblocker docker image](https://hub.docker.com/r/diffusehyperion/holyunblocker)
 
-hypertabs docker image:https://hub.docker.com/r/noahjam/hypertabs 
+[hypertabs docker image](https://hub.docker.com/r/noahjam/hypertabs)
 
-(snorlaxs-cave image)[https://hub.docker.com/layers/jonnycat/pokecavewebsite/v1.1/images/sha256-053975d44474b1d86a2546cd087235c59527929405d67cc579bc7ce16eedbb3d?context=repo]
+[snorlaxs-cave image](https://hub.docker.com/layers/jonnycat/pokecavewebsite/v1.1/images/sha256-053975d44474b1d86a2546cd087235c59527929405d67cc579bc7ce16eedbb3d?context=repo)
+
 ## Credits
 
 | Avatar | User | Involvement |
