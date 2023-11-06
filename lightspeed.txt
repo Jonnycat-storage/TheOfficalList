@@ -128,6 +128,11 @@ ultraviolet2 https://ultra1dude.onrender.com
 ultraviolet3 https://ultra3dude.onrender.com 
 ultraviolet4 https://ultra4dude.onrender.com
 ultraviolet5 https://ultra5dude.onrender.com
+ultraviolet6 https://ultramantheman1.onrender.com 
+ultraviolet7 https://ultramantheman2.onrender.com 
+ultraviolet8 https://ultramantheman3.onrender.com 
+ultraviolet9 https://ultramantheman4.onrender.com 
+ultraviolet10 https://ultramantheman5.onrender.com
 holyunblocker1 https://daholyman1.onrender.com 
 holyunblocker2 https://daholyman2.onrender.com 
 holyunblocker3 https://daholyman3.onrender.com 
