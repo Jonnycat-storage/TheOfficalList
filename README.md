@@ -41,6 +41,10 @@ i am not responsible for the proxy links i add or make if it dosen't work for yo
 
 [Theunblockedhub](https://hub.docker.com/r/jonnycat/unlockedbubv1)
 
+[astroidv3](https://hub.docker.com/r/jonnycat/unoffical-astroidv3)
+
+[clockwork](https://hub.docker.com/r/jonnycat/unoffical-clockworkv2)
+
 # Proxy Githubs  
 [doge-unblocker](https://github.com/DogeNetwork/v4) 
 
@@ -63,6 +67,10 @@ i am not responsible for the proxy links i add or make if it dosen't work for yo
 [holy unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
 
 [Theunblockedhub](https://github.com/TheUnblockedHubOfficial/TheUnblockedHub)
+
+[astroidv3](https://github.com/VyperGroup/astroidv3) 
+
+[clockwork](https://github.com/red-stone-network/clockwork)
 ## Credits
 
 | Avatar | User | Involvement |
