@@ -45,6 +45,8 @@ i am not responsible for the proxy links i add or make if it dosen't work for yo
 
 [clockwork](https://hub.docker.com/r/jonnycat/unoffical-clockworkv2)
 
+[polaris](https://hub.docker.com/r/jonnycat/unoffical-polarisv1)
+
 # Proxy Githubs  
 [doge-unblocker](https://github.com/DogeNetwork/v4) 
 
