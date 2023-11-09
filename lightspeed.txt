@@ -138,4 +138,9 @@ holyunblocker2 https://daholyman2.onrender.com
 holyunblocker3 https://daholyman3.onrender.com 
 holyunblocker4 https://daholyman4.onrender.com
 holyunblocker5 https://daholyman5.onrender.com 
-Theunblockedhub1 https://unlockedhub1.onrender.com
+Theunblockedhub1 https://unlockedhub1.onrender.com 
+polaris1 https://polarisdude1.onrender.com 
+polaris2 https://polarisdude2.onrender.com
+polaris3 https://polarisdude3.onrender.com
+polaris4 https://polarisdude4.onrender.com
+polaris5 https://polarisdude5.onrender.com
