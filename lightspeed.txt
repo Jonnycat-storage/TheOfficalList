@@ -143,4 +143,9 @@ polaris1 https://polarisdude1.onrender.com
 polaris2 https://polarisdude2.onrender.com
 polaris3 https://polarisdude3.onrender.com
 polaris4 https://polarisdude4.onrender.com
-polaris5 https://polarisdude5.onrender.com
+polaris5 https://polarisdude5.onrender.com 
+artclass1 https://artclassthebest1.onrender.com 
+artclass2 https://artclassthebest2.onrender.com
+artclass3 https://artclassthebest3.onrender.com 
+artclass4 https://artclassthebest4.onrender.com 
+artclass5 https://artclassthebest5.onrender.com 
