@@ -154,3 +154,8 @@ artclass2 https://artclassthebest2.onrender.com
 artclass3 https://artclassthebest3.onrender.com 
 artclass4 https://artclassthebest4.onrender.com 
 artclass5 https://artclassthebest5.onrender.com 
+nebula1 https://nebulatesting1.onrender.com 
+nebula2 https://nebula-work2.onrender.com 
+nebula3 https://nebula-work3.onrender.com 
+nebula4 https://nebula-work4.onrender.com
+nebula5 https://nebula-work5.onrender.com
