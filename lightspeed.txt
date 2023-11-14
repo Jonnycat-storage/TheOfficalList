@@ -29,7 +29,10 @@ doge7 https://v4-git-main-derps-team-2.vercel.app
 doge8 https://v4-derps-team-2.vercel.app 
 doge9 https://v4-c7v7.vercel.app/app 
 doge10 https://v4-c7v7-git-main-deezers.vercel.app
-doge11 https://v4-c7v7-deezers.vercel.app
+doge11 https://v4-c7v7-deezers.vercel.app 
+doge12 v4-taxk.vercel.app
+doge13 v4-taxk-doge-team.vercel.app
+doge14 v4-taxk-git-main-doge-team.vercel.app
 snorlaxs1 https://pokecave1-utnd.onrender.com
 snorlaxs2 https://pokecave2-eniw.onrender.com
 snorlaxs3 https://pokecave3-9pgy.onrender.com  
