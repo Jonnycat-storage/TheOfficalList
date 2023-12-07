@@ -1,13 +1,12 @@
-# jplist
-a proxy list of websites to go to 
-
+# TheList
+A list of websites to go to
 # How to use the website!!! 
-type the name of the proxy that you want to use!!! 
-
+Type the name of the poxy that you want to use!!! 
 # PLEASE READ!!! 
-i am not responsible for the proxy links i add or make if it dosen't work for you then i can't do nothing about it. these links only support lightspeed blocker because that is my schools blocker. please send me some links that will work for your schools blocker on my discord Jonnycat.
-
-# Proxy support list
+I am not responsible for the poxy links i add or make if it dosen't work for you then i can't do nothing about it. 
+These links only support lightspeed blocker because that is my schools blocker. 
+please send me some links that will work for your schools blocker on my discord Jonnycat and i will put it on my website.
+# Poxy support list
 - [x] rammerhead
 - [x] doge unblocker 
 - [x] snorlaxs-cave
@@ -22,7 +21,7 @@ i am not responsible for the proxy links i add or make if it dosen't work for yo
 - [x] ultraviolet
 - [x] holy unblocker
 
-# Docker Proxy images 
+# Docker Poxy images 
 [Ultraviolet docker image](https://hub.docker.com/r/diffusehyperion/ultraviolet)
 
 [Holy Unblocker docker image](https://hub.docker.com/r/diffusehyperion/holyunblocker)
@@ -47,7 +46,7 @@ i am not responsible for the proxy links i add or make if it dosen't work for yo
 
 [polaris](https://hub.docker.com/r/jonnycat/unoffical-polarisv1)
 
-# Proxy Githubs  
+# Poxy Github
 [doge-unblocker](https://github.com/DogeNetwork/v4) 
 
 [snorlaxs-cave](https://github.com/SPS-Services/Snorlaxs-Cave-v1)
