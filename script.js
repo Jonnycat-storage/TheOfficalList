@@ -18,7 +18,7 @@ document.getElementById("search-input").addEventListener("keydown", function () 
     resultsContainer.appendChild(breake2)
     resultsContainer.appendChild(breake3)
     resultsContainer.appendChild(breake4)
-    fetch("lightspeed.txt")
+    fetch("thelist.txt")
   .then((response) => response.text())
   .then((data) => {
     const links = data.split("\n");
