@@ -128,8 +128,8 @@ interstellar3 https://newinterlink3.onrender.com
 interstellar4 https://newinterlink4.onrender.com 
 interstellar5 https://newinterlink5.onrender.com
 SN1 https://azrielmadethis.cheap-car-rental.com/
-SN2 jonnythemaindudeone.surfiesta.cl
-SN3 jonnythemaindudetwo.surfiesta.cl
-SN4 jonnythemaindudethree.surfiesta.cl
-SN5 jonnythemaindudefour.surfiesta.cl
-SN6 jonnythemaindudefive.surfiesta.cl
+SN2 https://jonnythemaindudeone.surfiesta.cl
+SN3 https://jonnythemaindudetwo.surfiesta.cl
+SN4 https://jonnythemaindudethree.surfiesta.cl
+SN5 https://jonnythemaindudefour.surfiesta.cl
+SN6 https://jonnythemaindudefive.surfiesta.cl
