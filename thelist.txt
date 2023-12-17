@@ -126,8 +126,8 @@ SN3 https://jonnythemaindudetwo.surfiesta.cl
 SN4 https://jonnythemaindudethree.surfiesta.cl
 SN5 https://jonnythemaindudefour.surfiesta.cl
 SN6 https://jonnythemaindudefive.surfiesta.cl
-SN7  https://shadowymonster1.deleesportsmedicine.com
-SN8  https://shadowymonster2.deleesportsmedicine.com
-SN9  https://shadowymonster3.deleesportsmedicine.com
+SN7 https://shadowymonster1.deleesportsmedicine.com
+SN8 https://shadowymonster2.deleesportsmedicine.com
+SN9 https://shadowymonster3.deleesportsmedicine.com
 SN10 https://shadowymonster4.deleesportsmedicine.com
 SN11 https://shadowymonster5.deleesportsmedicine.com
