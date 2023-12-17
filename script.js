@@ -90,7 +90,40 @@ const searchValue = document.getElementById("search-input").value;
         textstuff.textContent = name;
         textstuff.classList.add('fixedtxt')
 
+        const logostuff = document.createElement('img')
+        
+        logostuff.classList.add('logo')
 
+        if(name.includes('rammerhead')) {
+          logostuff.src = './logos/rammerhead.png'
+          
+        } else if(name.includes('doge')) {
+          logostuff.src = './logos/doge.jpg'
+          
+        } else if(name.includes('hypertabs')) {
+          logostuff.src = './logos/hyper.png'
+          
+        } else if(name.includes('snorlaxs')) {
+          logostuff.src = './logos/snorlax.png'
+          
+        } else  if(name.includes('incognito')) {
+          logostuff.src = './logos/incog.png'
+          
+        } else if(name.includes('Incognito')) {
+          logostuff.src = './logos/incog.png'
+          
+        } else if(name.includes('incognito')) {
+          logostuff.src = './logos/incog.png'
+          
+        } else if(name.includes('phantomgames')) {
+          logostuff.src = './logos/phantomgames.png'
+          
+        } else {
+          logostuff.src = './logos/jonny.png'
+          
+        } 
+
+        listItem.appendChild(logostuff)
 
 
         listItem.appendChild(textstuff)
