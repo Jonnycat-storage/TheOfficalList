@@ -116,7 +116,10 @@ const searchValue = document.getElementById("search-input").value;
           logostuff.src = './logos/incog.png'
           
         } else if(name.includes('phantomgames')) {
-          logostuff.src = './logos/phantomgames.png'
+          logostuff.src = './logos/phantomgames.png' 
+
+        } else if(name.includes('SN')) {
+            logostuff.src = './logos/SN.png'
           
         } else {
           logostuff.src = './logos/jonny.png'
