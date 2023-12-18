@@ -106,14 +106,8 @@ const searchValue = document.getElementById("search-input").value;
         } else if(name.includes('snorlaxs')) {
           logostuff.src = './logos/snorlax.png'
           
-        } else  if(name.includes('incognito')) {
-          logostuff.src = './logos/incog.png'
-          
-        } else if(name.includes('Incognito')) {
-          logostuff.src = './logos/incog.png'
-          
         } else if(name.includes('incognito')) {
-          logostuff.src = './logos/incogg.png'
+          logostuff.src = './logos/incognito.png'
           
         } else if(name.includes('phantomgames')) {
           logostuff.src = './logos/phantomgames.png' 
@@ -127,10 +121,15 @@ const searchValue = document.getElementById("search-input").value;
         } else if(name.includes('emerald')) {
             logostuff.src = './logos/emerald.png' 
 
+        } else if(name.includes('nebula')) {
+            logostuff.src = './logos/nebula.png' 
+
         } else {
           logostuff.src = './logos/jonny.png'
           
         } 
+
+        
   
         listItem.appendChild(logostuff)
 
