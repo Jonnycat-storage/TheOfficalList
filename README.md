@@ -78,3 +78,4 @@ please send me some links that will work for your schools blocker on my discord 
 | ------ | ---- | ----------- | 
 | ![](https://avatars.githubusercontent.com/u/107599365?v=64) | [Jonnycat](https://github.com/JonnycatMeow) | website creator
 | ![](https://avatars.githubusercontent.com/u/121367528?s=64) | [GhostedZoomer77](https://github.com/Ishan877) | proxy helper
+| ![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg) | [histemine]| proxy helper
