@@ -113,19 +113,25 @@ const searchValue = document.getElementById("search-input").value;
           logostuff.src = './logos/incog.png'
           
         } else if(name.includes('incognito')) {
-          logostuff.src = './logos/incog.png'
+          logostuff.src = './logos/incogg.png'
           
         } else if(name.includes('phantomgames')) {
           logostuff.src = './logos/phantomgames.png' 
 
         } else if(name.includes('SN')) {
-            logostuff.src = './logos/SN.png'
-          
+            logostuff.src = './logos/SN.png' 
+
+        } else if(name.includes('interstellar')) {
+            logostuff.src = './logos/IN.png'  
+
+        } else if(name.includes('emerald')) {
+            logostuff.src = './logos/emerald.png' 
+
         } else {
           logostuff.src = './logos/jonny.png'
           
         } 
-
+  
         listItem.appendChild(logostuff)
 
 
