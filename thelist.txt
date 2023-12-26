@@ -26,6 +26,10 @@ doge4 https://328bh77e6128geb6d51725dg152d7158dg65dg8129gd16dg15d815g2.vercel.ap
 doge5 https://ifyouseethisteacherdontcloseoutmytab.vercel.app/app 
 doge6 https://iwannabefamous-myparentssaid-igotadhd-butidk.vercel.app/app 
 doge7 https://mydrieiwannabiwannabiwannabiwannabiwannabiwannabiwawabiwanannab.vercel.app/app
+doge8 https://portal2.tomahawkchurch.org
+doge9 https://portal3.tomahawkchurch.org
+doge10 https://portal4.tomahawkchurch.org
+doge11 https://portal5.tomahawkchurch.org
 snorlaxs1 https://pokecave1-utnd.onrender.com
 snorlaxs2 https://pokecave2-eniw.onrender.com
 snorlaxs3 https://pokecave3-9pgy.onrender.com  
