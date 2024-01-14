@@ -25,11 +25,12 @@ doge3 https://da-blue.vercel.app/app
 doge4 https://328bh77e6128geb6d51725dg152d7158dg65dg8129gd16dg15d815g2.vercel.app/app 
 doge5 https://ifyouseethisteacherdontcloseoutmytab.vercel.app/app 
 doge6 https://iwannabefamous-myparentssaid-igotadhd-butidk.vercel.app/app 
-doge7 https://mydrieiwannabiwannabiwannabiwannabiwannabiwannabiwawabiwanannab.vercel.app/app
-doge8 https://portal2.tomahawkchurch.org
-doge9 https://portal3.tomahawkchurch.org
-doge10 https://portal4.tomahawkchurch.org
-doge11 https://portal5.tomahawkchurch.org
+doge7 https://mydrieiwannabiwannabiwannabiwannabiwannabiwannabiwawabiwanannab.vercel.app/app 
+doge8 https://chruchlight.nigelupchurch.com
+doge9 https://churchkingstin.nigelupchurch.com
+doge10 https://churchwillson.nigelupchurch.com
+doge11 https://jonnyeducationdock.nigelupchurch.com
+doge12 https://jonnyeducationsystem.nigelupchurch.com
 snorlaxs1 https://pokecave1-utnd.onrender.com
 snorlaxs2 https://pokecave2-eniw.onrender.com
 snorlaxs3 https://pokecave3-9pgy.onrender.com  
