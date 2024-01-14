@@ -1,4 +1,4 @@
-# TheList
+# TheOfficalList
 A list of websites to go to
 # How to use the website!!! 
 Type the name of the poxy that you want to use!!!  
