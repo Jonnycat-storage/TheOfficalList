@@ -77,9 +77,10 @@ nebula2 https://nebula-work2.onrender.com
 nebula3 https://nebula-work3.onrender.com 
 nebula4 https://nebula-work4.onrender.com
 nebula5 https://nebula-work5.onrender.com
-interstellar1 https://sub-plan-creator.onrender.com  
-interstellar2 https://uvtest-boe4.onrender.com 
-interstellar3 
+interstellar1 https://intern-ccsf.onrender.com
+interstellar2 https://educationman.onrender.com 
+interstellar3 https://codingisfunman.onrender.com 
+interstellar4 https://ilikedeploying.onrender.com 
 SN1 https://azrielmadethis.cheap-car-rental.com/
 SN2 https://jonnythemaindudeone.surfiesta.cl
 SN3 https://jonnythemaindudetwo.surfiesta.cl
