@@ -14,37 +14,14 @@ please send me some links that will work for your schools blocker on my discord 
 - [x] emerald 
 - [x] incognito 
 - [x] phantom games  
-- [x] shadow browser 
+- [x] shadow network
 - [x] interstellar
-- [x] dm-unblocker
 - [x] shuttle
 - [x] ultraviolet
-- [x] holy unblocker
+- [x] holy unblocker 
 
-# Docker Poxy images 
-[Ultraviolet docker image](https://hub.docker.com/r/diffusehyperion/ultraviolet)
-
-[Holy Unblocker docker image](https://hub.docker.com/r/diffusehyperion/holyunblocker)
-
-[hypertabs docker image](https://hub.docker.com/r/noahjam/hypertabs)
-
-[snorlaxs-cave image](https://hub.docker.com/layers/jonnycat/pokecavewebsite/v1.1/images/sha256-053975d44474b1d86a2546cd087235c59527929405d67cc579bc7ce16eedbb3d?context=repo) 
-
-[Incognito](https://hub.docker.com/r/jonnycat/nitoweb)
-
-[interstellar](https://hub.docker.com/r/jonnycat/push92thebest)
-
-[doge-unblocker](https://hub.docker.com/r/jonnycat/doge-unblockerv4)
-
-[metallic](https://hub.docker.com/r/jonnycat/metallicthebest)
-
-[Theunblockedhub](https://hub.docker.com/r/jonnycat/unlockedbubv1)
-
-[astroidv3](https://hub.docker.com/r/jonnycat/unoffical-astroidv3)
-
-[clockwork](https://hub.docker.com/r/jonnycat/unoffical-clockworkv2)
-
-[polaris](https://hub.docker.com/r/jonnycat/unoffical-polarisv1)
+# THIS ONLY SUPPORTS LIGHTSPEED FOR NOW!! 
+If you got a diffrent blocker please let me know so i can add that certain proxy but it has to be a proxy that you made or you got it from commuinty!!! 
 
 # Poxy Github
 [doge-unblocker](https://github.com/DogeNetwork/v4) 
