@@ -123,13 +123,14 @@ const searchValue = document.getElementById("search-input").value;
 
         } else if(name.includes('nebula')) {
             logostuff.src = './logos/nebula.png' 
+            
+        } else if(name.includes('Cobalt')) {
+            logostuff.src = './logos/cobalt.svg' 
 
         } else {
           logostuff.src = './logos/jonny.png'
           
-        } 
-
-        
+        }          
   
         listItem.appendChild(logostuff)
 
