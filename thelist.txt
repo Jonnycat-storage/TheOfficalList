@@ -92,3 +92,9 @@ SN8 https://shadowymonster2.deleesportsmedicine.com
 SN9 https://shadowymonster3.deleesportsmedicine.com
 SN10 https://shadowymonster4.deleesportsmedicine.com
 SN11 https://shadowymonster5.deleesportsmedicine.com
+Cobalt1 https://stoneplacing-7oev.onrender.com
+Cobalt2 https://stoneplacing1.onrender.com
+Cobalt3 https://stoneplacing2.onrender.com
+Cobalt4 https://stoneplacing3.onrender.com
+Cobalt5 https://stoneplacing4.onrender.com
+Cobalt6 https://caveintothedeepdark.onrender.com
