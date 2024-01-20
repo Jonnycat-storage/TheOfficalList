@@ -92,6 +92,11 @@ SN8 https://shadowymonster2.deleesportsmedicine.com
 SN9 https://shadowymonster3.deleesportsmedicine.com
 SN10 https://shadowymonster4.deleesportsmedicine.com
 SN11 https://shadowymonster5.deleesportsmedicine.com
+SN12 https://daddyblanky1.tomahawkchurch.org	
+SN13 https://daddyblanky2.tomahawkchurch.org
+SN14 https://daddyblanky3.tomahawkchurch.org	
+SN15 https://daddyblanky4.tomahawkchurch.org	
+SN16 https://daddyblanky5.tomahawkchurch.org	
 Cobalt1 https://stoneplacing-7oev.onrender.com
 Cobalt2 https://stoneplacing1.onrender.com
 Cobalt3 https://stoneplacing2.onrender.com
