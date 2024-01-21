@@ -125,7 +125,10 @@ const searchValue = document.getElementById("search-input").value;
             logostuff.src = './logos/nebula.png' 
             
         } else if(name.includes('Cobalt')) {
-            logostuff.src = './logos/cobalt.svg' 
+            logostuff.src = './logos/cobalt.svg'
+
+        } else if(name.includes('foil')) {
+            logostuff.src = './logos/foil.png' 
 
         } else {
           logostuff.src = './logos/jonny.png'

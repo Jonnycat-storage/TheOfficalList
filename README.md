@@ -19,6 +19,7 @@ please send me some links that will work for your schools blocker on my discord 
 - [x] shuttle
 - [x] ultraviolet
 - [x] holy unblocker 
+- [x] Tinf0il
 
 # THIS ONLY SUPPORTS LIGHTSPEED FOR NOW!! 
 If you got a diffrent blocker please let me know so i can add that certain proxy but it has to be a proxy that you made or you got it from commuinty!!! 
@@ -48,7 +49,6 @@ If you got a diffrent blocker please let me know so i can add that certain proxy
 
 [astroidv3](https://github.com/VyperGroup/astroidv3) 
 
-[clockwork](https://github.com/red-stone-network/clockwork)
 ## Credits
 
 | Avatar | User | Involvement |

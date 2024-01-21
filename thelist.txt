@@ -9,6 +9,11 @@ doge2 https://churchkingstin.nigelupchurch.com
 doge3 https://churchwillson.nigelupchurch.com
 doge4 https://jonnyeducationdock.nigelupchurch.com
 doge5 https://jonnyeducationsystem.nigelupchurch.com
+doge6 https://derpismymans1.tomahawkchurch.org
+doge7 https://derpismymans2.tomahawkchurch.org
+doge8 https://derpismymans3.tomahawkchurch.org
+doge9 https://derpismymans4.tomahawkchurch.org
+dodge10 https://derpismymans5.tomahawkchurch.org
 snorlaxs1 https://pokecave1-utnd.onrender.com
 snorlaxs2 https://pokecave2-eniw.onrender.com
 snorlaxs3 https://pokecave3-9pgy.onrender.com  
@@ -103,3 +108,8 @@ Cobalt3 https://stoneplacing2.onrender.com
 Cobalt4 https://stoneplacing3.onrender.com
 Cobalt5 https://stoneplacing4.onrender.com
 Cobalt6 https://caveintothedeepdark.onrender.com
+foil1 https://tinfoilball.onrender.com
+foil2 https://imesswithtinfoil.onrender.com
+foil3 https://toomuchfoil.onrender.com
+foil4 https://imade-an-animal-with-foil.onrender.com
+foil5 https://ballonfoil.onrender.com
