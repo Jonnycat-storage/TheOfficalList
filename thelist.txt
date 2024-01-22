@@ -13,7 +13,7 @@ doge6 https://derpismymans1.tomahawkchurch.org
 doge7 https://derpismymans2.tomahawkchurch.org
 doge8 https://derpismymans3.tomahawkchurch.org
 doge9 https://derpismymans4.tomahawkchurch.org
-dodge10 https://derpismymans5.tomahawkchurch.org
+doge10 https://derpismymans5.tomahawkchurch.org
 snorlaxs1 https://pokecave1-utnd.onrender.com
 snorlaxs2 https://pokecave2-eniw.onrender.com
 snorlaxs3 https://pokecave3-9pgy.onrender.com  
