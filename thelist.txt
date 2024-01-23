@@ -17,7 +17,6 @@ doge10 https://derpismymans5.tomahawkchurch.org
 snorlaxs1 https://pokecave1-utnd.onrender.com
 snorlaxs2 https://pokecave2-eniw.onrender.com
 snorlaxs3 https://pokecave3-9pgy.onrender.com  
-snorlaxs4 https://design.showmyhomes.com 
 hypertabs1 https://tabs1-5vk2.onrender.com
 hypertabs2 https://tabs2-wmwa.onrender.com 
 hypertabs3 https://tabs3-1hl7.onrender.com 
