@@ -14,6 +14,10 @@ doge7 https://derpismymans2.tomahawkchurch.org
 doge8 https://derpismymans3.tomahawkchurch.org
 doge9 https://derpismymans4.tomahawkchurch.org
 doge10 https://derpismymans5.tomahawkchurch.org
+doge11 https://younoteventhefart.onrender.com/app
+doge12 https://thepuppylist.onrender.com/app
+doge13 https://jonnyswebsite.onrender.com/app 
+doge14 https://thedoglist.onrender.com/app 
 snorlaxs1 https://pokecave1-utnd.onrender.com
 snorlaxs2 https://pokecave2-eniw.onrender.com
 snorlaxs3 https://pokecave3-9pgy.onrender.com  
