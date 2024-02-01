@@ -15,10 +15,7 @@ doge7 https://derpismymans2.tomahawkchurch.org
 doge8 https://derpismymans3.tomahawkchurch.org
 doge9 https://derpismymans4.tomahawkchurch.org
 doge10 https://derpismymans5.tomahawkchurch.org
-doge11 https://younoteventhefart.onrender.com/app
-doge12 https://thepuppylist.onrender.com/app
-doge13 https://jonnyswebsite.onrender.com/app 
-doge14 https://thedoglist.onrender.com/app 
+doge11 https://searchingdoge.onrender.com 
 snorlaxs1 https://pokecave1-utnd.onrender.com
 snorlaxs2 https://pokecave2-eniw.onrender.com
 snorlaxs3 https://pokecave3-9pgy.onrender.com  
@@ -30,8 +27,10 @@ Incognito1 https://incognito-static-version.pages.dev/
 incognito2 https://unblocker.netlify.app/
 incognito3 https://topnotchtopnotchtopnotchtopnotchtopnotch.onrender.com/ 
 incognito4 https://gooodwebsite.onrender.com 
-phantomgames1 https://look-at-the.qualitypoolsboulder.com/ 
-phantomgames2 https://phantomisdagoat.surfiesta.cl/ 
+phantomgames1 https://look-at-the.qualitypoolsboulder.com
+phantomgames2 https://phantomisdagoat.surfiesta.cl
+phantomgames3 https://markseducation.surfiesta.cl 
+phantomgames4 https://theoceanview.theoceanforest.com 
 emerald1 https://greatestaxeofflox.thelmadejager.co.za/
 emerald2 https://greatestaxeofllow.thelmadejager.co.za/
 emerald3 https://educationisimportant.iii.cl
