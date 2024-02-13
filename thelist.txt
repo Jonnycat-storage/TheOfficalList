@@ -16,6 +16,10 @@ emerald5 https://educationalwebsite.thelmadejager.co.za
 interstellar1 https://supiriourcar.onrender.com 
 interstellar2 https://challangeme.onrender.com 
 interstellar3 https://challangercars.onrender.com 
+doge1 https://comeheredogeyboy.surfiesta.cl
+doge2 https://derpmanisreal.surfiesta.cl
+doge3 https://derpybabycomehere.surfiesta.cl
+doge4 https://luismyfavorite.surfiesta.cl
 SN1 https://jonnythemaindudeone.surfiesta.cl
 SN2 https://jonnythemaindudetwo.surfiesta.cl
 SN3 https://jonnythemaindudethree.surfiesta.cl
