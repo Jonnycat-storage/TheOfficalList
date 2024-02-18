@@ -129,7 +129,10 @@ const searchValue = document.getElementById("search-input").value;
 
         } else if(name.includes('foil')) {
             logostuff.src = './logos/foil.png' 
-
+            
+        } else if(name.includes('kitty')) {
+            logostuff.src = './logos/kitty.png' 
+            
         } else {
           logostuff.src = './logos/jonny.png'
           
