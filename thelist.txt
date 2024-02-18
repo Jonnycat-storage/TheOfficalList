@@ -25,9 +25,6 @@ SN2 https://jonnythemaindudetwo.surfiesta.cl
 SN3 https://jonnythemaindudethree.surfiesta.cl
 SN4 https://jonnythemaindudefour.surfiesta.cl
 SN5 https://jonnythemaindudefive.surfiesta.cl
-SN6 https://shadowymonster1.deleesportsmedicine.com
-SN7 https://shadowymonster2.deleesportsmedicine.com
-SN8 https://shadowymonster3.deleesportsmedicine.com	
 kitty1 https://kittycatclubman.onrender.com 
 kitty2 https://imakittykittycat.onrender.com 
 kitty3 https://ilovecats-nno6.onrender.com
