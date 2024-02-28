@@ -31,6 +31,6 @@ kitty2 https://crimefightingrat.scottexteriors.com
 kitty3 https://fridaynightfunkinbaby.scottexteriors.com
 kitty4 https://ilovepolice.scottexteriors.com
 kitty5 https://thecarsbewild.scottexteriors.com
-kitty6 jciscool.tecteach.net
-kitty7 sadcat123baby.tecteach.net
-kitty8 solarman.tecteach.net
+kitty6 https://jciscool.tecteach.net
+kitty7 https://sadcat123baby.tecteach.net
+kitty8 https://solarman.tecteach.net
