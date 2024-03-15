@@ -26,8 +26,8 @@ SN2 https://jonnythemaindudetwo.surfiesta.cl
 SN3 https://jonnythemaindudethree.surfiesta.cl
 SN4 https://jonnythemaindudefour.surfiesta.cl
 SN5 https://jonnythemaindudefive.surfiesta.cl
-kitty1 homelanderissigma.callmark.cl
-kitty2 iliketobechiil.callmark.cl
-kitty3 ilikevideogames.callmark.cl
-kitty4 privateorpublic.callmark.cl
-kitty5 shadersarelife.callmark.cl
+kitty1 https://homelanderissigma.callmark.cl
+kitty2 https://iliketobechiil.callmark.cl
+kitty3 https://ilikevideogames.callmark.cl
+kitty4 https://privateorpublic.callmark.cl
+kitty5 https://shadersarelife.callmark.cl
