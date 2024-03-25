@@ -16,11 +16,11 @@ emerald5 https://educationalwebsite.thelmadejager.co.za
 interstellar1 https://supiriourcar.onrender.com 
 interstellar2 https://challangeme.onrender.com 
 interstellar3 https://challangercars.onrender.com 
-doge1 https://fnfissocool.callmark.cl	
-doge2 https://Haxeprogram.callmark.cl
-doge3 https://ilovehallowen.callmark.cl
-doge4 https://im.gonna.callmark.cl
-doge5 https://thurgoodisgood.callmark.cl
+doge1 https://4kanimegotmelike.callmark.cl
+doge2 https://black.callmark.cl
+doge3 https://japanesesnacksarereallygood.callmark.cl
+doge4 https://jynxzithegoatfr.callmark.cl
+doge5 https://moxienoxy.callmark.cl
 SN1 https://jonnythemaindudeone.surfiesta.cl
 SN2 https://jonnythemaindudetwo.surfiesta.cl
 SN3 https://jonnythemaindudethree.surfiesta.cl
