@@ -13,7 +13,6 @@ interstellar3 https://challangercars.onrender.com
 doge1 https://clixisawmans.callmark.cl
 doge2 https://derpwhyyyyoudothis.callmark.cl
 doge3 https://iamthebestincallofduty.callmark.cl
-doge4 https://isjynxzial.callmark.cl
 SN1 https://jonnythemaindudeone.surfiesta.cl
 SN2 https://jonnythemaindudetwo.surfiesta.cl
 SN3 https://jonnythemaindudethree.surfiesta.cl
