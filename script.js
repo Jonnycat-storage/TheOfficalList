@@ -132,6 +132,9 @@ const searchValue = document.getElementById("search-input").value;
             
         } else if(name.includes('kitty')) {
             logostuff.src = './logos/kitty.png' 
+
+        } else if(name.includes('lunar')) {
+            logostuff.src = './logos/lunar.png' 
             
         } else {
           logostuff.src = './logos/jonny.png'
