@@ -130,7 +130,6 @@ const searchValue = document.getElementById("search-input").value;
             logostuff.src = './logos/lunar.png' 
             
         }     
-        if (url && name) {
 
             listItem.appendChild(logostuff)
             listItem.appendChild(textstuff)
@@ -143,7 +142,7 @@ const searchValue = document.getElementById("search-input").value;
             linkElement.appendChild(listItem);
 
             resultsContainer.appendChild(linkElement);
-        }
+        
       }
     }
 
