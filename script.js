@@ -131,20 +131,20 @@ const searchValue = document.getElementById("search-input").value;
             logostuff.src = './logos/lunar.png' 
             
         }     
-  
-        listItem.appendChild(logostuff)
+        if (url && name) {
 
-
-        listItem.appendChild(textstuff)
+            listItem.appendChild(logostuff)
+            listItem.appendChild(textstuff)
 
 
 
        
 
 
-        linkElement.appendChild(listItem);
+            linkElement.appendChild(listItem);
 
-        resultsContainer.appendChild(linkElement);
+            resultsContainer.appendChild(linkElement);
+        }
       }
     }
 
