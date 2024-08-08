@@ -42,11 +42,10 @@ document.getElementById("search-input").addEventListener("keydown", function () 
 
 
 
-         if (url && name) {
             listItem.appendChild(textstuff)
             linkElement.appendChild(listItem);
             resultsContainer.appendChild(linkElement);
-         }
+         
       }
     }
 
